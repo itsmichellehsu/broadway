@@ -1,0 +1,49 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.navigation-list {
+background-image: url(/Users/Shared/test/github.io/broadway/resource/the-flatiron-building.png);
+color: white;
+font-size: 18px;
+}
+
+#header {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.nav {
+  color: white;
+  font-size: 18px;
+}
+
+#Process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.titles {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.sub-titles {
+  font-size: 14px;
+}
+
+#designed-in-new-york {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(/Users/Shared/test/github.io/broadway/resource/the-flatiron-building.png);
+}
+
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
